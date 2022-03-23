@@ -1,7 +1,0 @@
-com.springAOPdemo.DemoConfig=org.springframework.stereotype.Component
-com.springAOPdemo.aspect.MyAPIAnalyticsAspect=org.springframework.stereotype.Component
-com.springAOPdemo.aspect.MyCloudLogAspect=org.springframework.stereotype.Component
-com.springAOPdemo.aspect.MyDemoLoggingAspect=org.springframework.stereotype.Component
-com.springAOPdemo.dao.AccountDAO=org.springframework.stereotype.Component
-com.springAOPdemo.dao.MembershipDAO=org.springframework.stereotype.Component
-com.springAOPdemo.service.TrafficFortuneService=org.springframework.stereotype.Component
